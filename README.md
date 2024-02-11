@@ -2,8 +2,8 @@
 # Smooth Scroll 
 
 
-<div align="center">
-  <img src="/scrollArt.png" alt="Logo" width="100%" style="border-radius: 12px;">
+<div align="center" style="border-radius: 12px">
+  <img src="/scrollArt.png" alt="Logo" width="100%" style="border-radius: 12px">
 </div>
 <div>
 <h2 align="center">Smooth scroll using vanilla javascript 👋</h2>
