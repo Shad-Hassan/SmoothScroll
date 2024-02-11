@@ -8,7 +8,9 @@
 <div>
 <h2 align="center">Smooth scroll using vanilla javascript 👋</h2>
 </div>
+
 ## Usage
+
 - Link the javaScript file to your index.html (react projects too :heart_decoration:)
 
 
